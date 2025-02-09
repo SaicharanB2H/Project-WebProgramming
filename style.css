@@ -331,3 +331,59 @@ header{
     height: auto;
     
 }
+
+.contimgs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sp{
+    margin-top: -7px;
+}
+
+.cf1 img {
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+}
+
+.cfimg1 img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.cfimg2 img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.onlycont1{
+    display: flex;
+    justify-content: center;
+}
+
+.onlycont img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.singleimg{
+    display: flex;
+    justify-content: center;
+}
+.famcont{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+
+}
+
+.cf1img img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
