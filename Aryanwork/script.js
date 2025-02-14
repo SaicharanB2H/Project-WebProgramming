@@ -3,8 +3,8 @@ $(document).ready(function(){
         loop: true,          // Infinite loop
         margin: 10,         // Space between items
         nav: true,          // Show navigation arrows
-        autoplay: true,     // Auto-play enabled
-        autoplayTimeout: 3000, // 2 seconds per slide
+        autoplay: false,     // Auto-play enabled
+        autoplayTimeout: 2500, // 2 seconds per slide
         responsive:{
             0:{ items: 1 },
             600:{ items: 2 },
